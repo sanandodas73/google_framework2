@@ -23,6 +23,7 @@ public class searchproducts extends googleBase {
 	public void i_am_on_the_google_homepage() {
 	   
 		launchBrowser();
+		//hi
 		}
         
         
